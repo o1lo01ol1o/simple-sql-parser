@@ -59,6 +59,13 @@
 >     ,GrantOptionFor(..)
 >      -- * Comment
 >     ,Comment(..)
+>      -- * Internal
+>     ,TableElement(..)
+>     ,ColumnConstraint(..)
+>     ,Column(..)
+>     ,TableName(..)
+>     ,Name
+>     ,Type(..)
 >     ) where
 
 > import Data.Data
